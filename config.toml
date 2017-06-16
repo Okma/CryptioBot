@@ -1,0 +1,7 @@
+UserName = "Example"
+Nick = "Example"
+ServerAddress = "irc.chat.twitch.tv:6667"
+Channels = ["#example"]
+UpdateIntervalSeconds = 300
+Currency = "USD"
+CryptoSymbols = ["BTC", "ETH"]
